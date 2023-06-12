@@ -1,4 +1,4 @@
-module github.com/simonvetter/modbus
+module github.com/nbrysondev/modbus-rtu-tinygo
 
 go 1.16
 
